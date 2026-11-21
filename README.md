@@ -1,2 +1,1 @@
-# Netflix-Project-Management
-Netflix Project Management Assignment I: Agile project management
+# Netflix Executive Dashboard Sprint
