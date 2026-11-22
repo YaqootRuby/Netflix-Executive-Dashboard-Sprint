@@ -58,7 +58,7 @@ The full sprint goal is in [Sprint Goal.docx](Sprint%20Goal.docx).
 3. **Reuse the data:** load `Netflix_Cleaned_Dataset.csv` into Excel, Power BI, Tableau or Python (pandas).
 
 ## Project management
-- **Kanban board:** [paste your project link here]
+- **Kanban board:** [(https://github.com/users/YaqootRuby/projects/1)]
 - **Columns:** Backlog, Ready, In Progress, In Review, Done
 - **Rules:** maximum 2 cards per person in progress. A card is Done only after someone else has reviewed it.
 - **Cards:** 12 sprint tasks with an owner and estimate, 3 backlog items and 2 risk cards.
