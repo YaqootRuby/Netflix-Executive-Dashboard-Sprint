@@ -43,8 +43,8 @@ The full sprint goal is in [Sprint Goal.docx](Sprint%20Goal.docx).
 | [Netflix_Project.ipynb](Netflix_Project_Analysis/Netflix_Project.ipynb) | Jupyter notebook with the data cleaning and analysis. |
 | [Netflix_Project.html](Netflix_Project_Analysis/Netflix_Project.html) | HTML export of the notebook, readable without running any code. |
 | [Screenshots_of_Suceessfull_Run.png](Netflix_Project_Analysis/Screenshots_of_Suceessfull_Run.png) | Screenshot showing the notebook running successfully. |
-| [Project Plan.docx](Project%20Plan.docx) | Project plan: tasks, owners, estimates and risks. |
-| [Sprint Goal.docx](Sprint%20Goal.docx) | The sprint goal and how it is measured. |
+| [Project Plan.docx](Project%20Plan.pdf) | Project plan: tasks, owners, estimates and risks. |
+| [Sprint Goal.docx](Sprint%20Goal.pdf) | The sprint goal and how it is measured. |
 | [RETROSPECTIVE.md](RETROSPECTIVE.md) | Sprint retrospective: what went well, what did not and the next actions. |
 
 ## Dataset
