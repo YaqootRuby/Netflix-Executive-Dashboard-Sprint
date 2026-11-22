@@ -1,0 +1,501 @@
+Movie_id,Movie_Title,Genre,Year_of_release,Movie_duration,Watched_Country,Watched_date,User_Id,Ratings,Average_Ratings,Membership
+M045,Star Soup,Animation,2001,88,Spain,2025-01-02,U0117,4,2.83,Standard
+M006,Wedding Crashers Anonymous,Comedy,2014,102,France,2025-01-02,U0195,2,3.25,Basic
+M044,Bubblewick,Animation,2006,104,United States,2025-01-06,U0071,3,2.8,Standard
+M054,The Lantern Witch,Fantasy,2011,115,India,2025-01-07,U0057,4,3.23,Basic
+M047,The Quiet Accountant,Crime,2024,132,Brazil,2025-01-12,U0093,4,3.14,Standard
+M043,The Clockwork Fox,Animation,2024,90,India,2025-01-14,U0205,5,4.14,Standard
+M005,Night Courier,Action,2018,112,India,2025-01-15,U0137,3,3.11,Standard
+M017,The Seventh Floor,Thriller,2015,126,Mexico,2025-01-15,U0149,4,3.5,Standard
+M041,Pip and the Paper Moon,Animation,2023,97,Germany,2025-01-16,U0179,2,2.8,Basic
+M015,The Long Staircase,Drama,2025,142,France,2025-01-17,U0146,4,3.65,Basic
+M040,Running Dry,Documentary,2022,91,France,2025-01-19,U0085,5,4.2,Premium
+M011,The Quiet Orchard,Drama,2005,124,Japan,2025-01-24,U0019,1,2.25,Premium
+M060,Holiday Mix-Up,Family,2023,106,United States,2025-01-26,U0025,4,4.0,Standard
+M054,The Lantern Witch,Fantasy,2011,115,United Kingdom,2025-01-31,U0131,3,3.23,Premium
+M060,Holiday Mix-Up,Family,2023,106,United Kingdom,2025-02-01,U0044,5,4.0,Standard
+M013,Salt and Ash,Drama,2012,98,Spain,2025-02-01,U0153,3,3.29,Standard
+M005,Night Courier,Action,2018,112,United Kingdom,2025-02-02,U0200,3,3.11,Basic
+M040,Running Dry,Documentary,2022,91,United States,2025-02-03,U0150,5,4.2,Standard
+M028,The Café at Pier 9,Romance,2005,109,Spain,2025-02-04,U0049,4,3.75,Basic
+M002,Last Convoy,Action,2022,111,France,2025-02-05,U0124,5,3.44,Basic
+M059,Biscuit the Brave,Family,2017,98,Canada,2025-02-08,U0055,3,3.44,Premium
+M053,Throne of Tides,Fantasy,2015,124,United States,2025-02-08,U0097,3,3.33,Premium
+M049,Cutters,Crime,2018,133,Canada,2025-02-12,U0155,3,2.75,Standard
+M021,The Hollow Hour,Horror,2010,98,South Africa,2025-02-15,U0097,4,3.36,Premium
+M002,Last Convoy,Action,2022,111,United Kingdom,2025-02-16,U0078,4,3.44,Basic
+M025,Below the Lantern,Horror,2000,99,Brazil,2025-02-18,U0052,2,2.89,Basic
+M054,The Lantern Witch,Fantasy,2011,115,South Africa,2025-02-19,U0123,3,3.23,Standard
+M006,Wedding Crashers Anonymous,Comedy,2014,102,Spain,2025-02-22,U0168,3,3.25,Premium
+M019,Paper Witness,Thriller,2004,100,France,2025-02-26,U0051,5,3.92,Premium
+M047,The Quiet Accountant,Crime,2024,132,India,2025-02-27,U0011,3,3.14,Standard
+M022,Echo House,Horror,2014,92,Australia,2025-03-01,U0021,3,3.17,Standard
+M048,Blood Ledger,Crime,2022,115,Spain,2025-03-01,U0184,3,3.44,Standard
+M028,The Café at Pier 9,Romance,2005,109,Spain,2025-03-01,U0214,3,3.75,Basic
+M036,Concrete Rivers,Documentary,1999,97,United Kingdom,2025-03-02,U0029,4,3.5,Standard
+M013,Salt and Ash,Drama,2012,98,United States,2025-03-02,U0102,4,3.29,Premium
+M001,Iron Meridian,Action,2025,130,United States,2025-03-02,U0160,4,3.71,Standard
+M054,The Lantern Witch,Fantasy,2011,115,Japan,2025-03-04,U0070,3,3.23,Basic
+M057,The Backyard Expedition,Family,2001,112,France,2025-03-07,U0138,4,3.5,Standard
+M027,Second Spring,Romance,2006,96,India,2025-03-07,U0181,5,3.96,Standard
+M051,The Ember Crown,Fantasy,2020,145,South Africa,2025-03-08,U0074,4,3.26,Premium
+M046,Harbor Street Ledger,Crime,2003,135,India,2025-03-08,U0181,3,3.42,Standard
+M050,Nine Locks,Crime,2002,118,France,2025-03-09,U0140,3,4.29,Standard
+M051,The Ember Crown,Fantasy,2020,145,India,2025-03-11,U0024,2,3.26,Basic
+M003,Redline Protocol,Action,2024,100,Canada,2025-03-12,U0047,2,3.29,Standard
+M036,Concrete Rivers,Documentary,1999,97,United States,2025-03-12,U0189,4,3.5,Premium
+M017,The Seventh Floor,Thriller,2015,126,Mexico,2025-03-15,U0154,3,3.5,Basic
+M015,The Long Staircase,Drama,2025,142,Germany,2025-03-15,U0202,4,3.65,Premium
+M046,Harbor Street Ledger,Crime,2003,135,India,2025-03-23,U0057,4,3.42,Basic
+M052,Whisperwood,Fantasy,2001,136,Brazil,2025-03-23,U0089,4,4.58,Premium
+M002,Last Convoy,Action,2022,111,South Africa,2025-03-26,U0098,5,3.44,Premium
+M002,Last Convoy,Action,2022,111,Mexico,2025-03-30,U0147,4,3.44,Standard
+M050,Nine Locks,Crime,2002,118,Japan,2025-03-31,U0094,4,4.29,Basic
+M045,Star Soup,Animation,2001,88,United States,2025-04-02,U0042,3,2.83,Premium
+M049,Cutters,Crime,2018,133,Japan,2025-04-08,U0029,3,2.75,Standard
+M013,Salt and Ash,Drama,2012,98,Japan,2025-04-09,U0025,4,3.29,Standard
+M059,Biscuit the Brave,Family,2017,98,Mexico,2025-04-13,U0206,1,3.44,Basic
+M009,Unfiltered Uncle,Comedy,2010,87,India,2025-04-13,U0209,5,3.71,Standard
+M021,The Hollow Hour,Horror,2010,98,Brazil,2025-04-14,U0099,3,3.36,Standard
+M028,The Café at Pier 9,Romance,2005,109,United States,2025-04-14,U0190,5,3.75,Standard
+M025,Below the Lantern,Horror,2000,99,Germany,2025-04-18,U0165,3,2.89,Standard
+M060,Holiday Mix-Up,Family,2023,106,United Kingdom,2025-04-20,U0029,4,4.0,Standard
+M027,Second Spring,Romance,2006,96,United States,2025-04-21,U0053,3,3.96,Premium
+M003,Redline Protocol,Action,2024,100,Mexico,2025-04-23,U0110,5,3.29,Standard
+M054,The Lantern Witch,Fantasy,2011,115,Mexico,2025-05-01,U0171,3,3.23,Premium
+M055,Realm of Glass,Fantasy,2015,109,France,2025-05-06,U0035,4,3.6,Standard
+M028,The Café at Pier 9,Romance,2005,109,Germany,2025-05-06,U0159,5,3.75,Standard
+M054,The Lantern Witch,Fantasy,2011,115,Canada,2025-05-09,U0012,3,3.23,Standard
+M005,Night Courier,Action,2018,112,Mexico,2025-05-09,U0173,3,3.11,Premium
+M059,Biscuit the Brave,Family,2017,98,Mexico,2025-05-10,U0022,5,3.44,Standard
+M010,Two Left Passports,Comedy,2021,113,Germany,2025-05-12,U0151,4,3.25,Standard
+M028,The Café at Pier 9,Romance,2005,109,United States,2025-05-13,U0096,3,3.75,Basic
+M027,Second Spring,Romance,2006,96,Germany,2025-05-13,U0202,5,3.96,Premium
+M039,Ghost Fleets,Documentary,2014,102,Japan,2025-05-14,U0104,3,3.0,Basic
+M005,Night Courier,Action,2018,112,Japan,2025-05-16,U0094,4,3.11,Basic
+M023,Marrow,Horror,2021,82,France,2025-05-19,U0085,3,3.86,Premium
+M048,Blood Ledger,Crime,2022,115,Canada,2025-05-19,U0132,4,3.44,Premium
+M058,Summer at Willow Lake,Family,2009,103,Mexico,2025-05-19,U0199,4,3.6,Basic
+M043,The Clockwork Fox,Animation,2024,90,India,2025-05-20,U0048,3,4.14,Premium
+M022,Echo House,Horror,2014,92,Australia,2025-05-22,U0059,3,3.17,Basic
+M051,The Ember Crown,Fantasy,2020,145,France,2025-05-22,U0210,3,3.26,Basic
+M011,The Quiet Orchard,Drama,2005,124,United States,2025-05-23,U0086,2,2.25,Premium
+M051,The Ember Crown,Fantasy,2020,145,India,2025-05-25,U0026,2,3.26,Basic
+M034,Static Sky,Sci-Fi,2010,151,Germany,2025-05-25,U0142,4,3.17,Basic
+M043,The Clockwork Fox,Animation,2024,90,United States,2025-05-26,U0003,5,4.14,Premium
+M051,The Ember Crown,Fantasy,2020,145,Spain,2025-05-26,U0082,4,3.26,Premium
+M002,Last Convoy,Action,2022,111,Canada,2025-05-27,U0027,3,3.44,Premium
+M023,Marrow,Horror,2021,82,India,2025-05-29,U0057,4,3.86,Basic
+M019,Paper Witness,Thriller,2004,100,Germany,2025-05-31,U0010,3,3.92,Basic
+M032,The Memory Engine,Sci-Fi,2011,117,Spain,2025-05-31,U0033,4,4.0,Premium
+M049,Cutters,Crime,2018,133,United Kingdom,2025-06-01,U0044,4,2.75,Standard
+M060,Holiday Mix-Up,Family,2023,106,United States,2025-06-01,U0160,5,4.0,Standard
+M001,Iron Meridian,Action,2025,130,Brazil,2025-06-06,U0112,3,3.71,Premium
+M036,Concrete Rivers,Documentary,1999,97,United States,2025-06-07,U0150,2,3.5,Standard
+M039,Ghost Fleets,Documentary,2014,102,Japan,2025-06-10,U0025,2,3.0,Standard
+M028,The Café at Pier 9,Romance,2005,109,Mexico,2025-06-11,U0207,4,3.75,Standard
+M057,The Backyard Expedition,Family,2001,112,Mexico,2025-06-12,U0173,4,3.5,Premium
+M009,Unfiltered Uncle,Comedy,2010,87,Mexico,2025-06-14,U0186,3,3.71,Premium
+M027,Second Spring,Romance,2006,96,Spain,2025-06-17,U0172,3,3.96,Standard
+M039,Ghost Fleets,Documentary,2014,102,Japan,2025-06-18,U0161,3,3.0,Basic
+M026,Letters to Lisbon,Romance,2011,121,United States,2025-06-19,U0160,3,3.57,Standard
+M043,The Clockwork Fox,Animation,2024,90,France,2025-06-19,U0210,4,4.14,Basic
+M054,The Lantern Witch,Fantasy,2011,115,Australia,2025-06-20,U0065,3,3.23,Standard
+M015,The Long Staircase,Drama,2025,142,Brazil,2025-06-20,U0087,4,3.65,Premium
+M048,Blood Ledger,Crime,2022,115,Brazil,2025-06-20,U0208,3,3.44,Premium
+M014,Borrowed Names,Drama,2013,112,Mexico,2025-06-21,U0136,2,3.4,Basic
+M041,Pip and the Paper Moon,Animation,2023,97,United States,2025-06-22,U0126,2,2.8,Standard
+M027,Second Spring,Romance,2006,96,Germany,2025-06-23,U0218,4,3.96,Premium
+M027,Second Spring,Romance,2006,96,Japan,2025-06-24,U0029,5,3.96,Standard
+M001,Iron Meridian,Action,2025,130,United States,2025-06-29,U0043,5,3.71,Basic
+M023,Marrow,Horror,2021,82,India,2025-06-29,U0148,4,3.86,Standard
+M005,Night Courier,Action,2018,112,Brazil,2025-06-30,U0006,4,3.11,Premium
+M052,Whisperwood,Fantasy,2001,136,Spain,2025-06-30,U0133,5,4.58,Basic
+M028,The Café at Pier 9,Romance,2005,109,United States,2025-07-01,U0056,4,3.75,Basic
+M006,Wedding Crashers Anonymous,Comedy,2014,102,France,2025-07-01,U0060,4,3.25,Standard
+M025,Below the Lantern,Horror,2000,99,India,2025-07-02,U0090,3,2.89,Premium
+M058,Summer at Willow Lake,Family,2009,103,France,2025-07-04,U0051,3,3.6,Premium
+M026,Letters to Lisbon,Romance,2011,121,United States,2025-07-04,U0219,3,3.57,Basic
+M027,Second Spring,Romance,2006,96,Mexico,2025-07-05,U0129,4,3.96,Standard
+M046,Harbor Street Ledger,Crime,2003,135,Brazil,2025-07-05,U0157,4,3.42,Standard
+M051,The Ember Crown,Fantasy,2020,145,Brazil,2025-07-06,U0164,4,3.26,Premium
+M045,Star Soup,Animation,2001,88,India,2025-07-08,U0048,2,2.83,Premium
+M051,The Ember Crown,Fantasy,2020,145,Japan,2025-07-09,U0072,4,3.26,Basic
+M005,Night Courier,Action,2018,112,United States,2025-07-09,U0178,3,3.11,Premium
+M019,Paper Witness,Thriller,2004,100,United States,2025-07-11,U0077,5,3.92,Basic
+M002,Last Convoy,Action,2022,111,United States,2025-07-11,U0126,2,3.44,Standard
+M027,Second Spring,Romance,2006,96,Mexico,2025-07-14,U0180,4,3.96,Basic
+M019,Paper Witness,Thriller,2004,100,United States,2025-07-16,U0043,5,3.92,Basic
+M015,The Long Staircase,Drama,2025,142,Japan,2025-07-16,U0166,4,3.65,Premium
+M059,Biscuit the Brave,Family,2017,98,United States,2025-07-17,U0130,3,3.44,Standard
+M022,Echo House,Horror,2014,92,Germany,2025-07-19,U0081,4,3.17,Standard
+M028,The Café at Pier 9,Romance,2005,109,South Africa,2025-07-22,U0058,3,3.75,Basic
+M010,Two Left Passports,Comedy,2021,113,United States,2025-07-22,U0075,3,3.25,Standard
+M037,The Last Beekeepers,Documentary,2024,95,Australia,2025-07-24,U0068,4,4.0,Basic
+M002,Last Convoy,Action,2022,111,Brazil,2025-07-24,U0091,3,3.44,Standard
+M051,The Ember Crown,Fantasy,2020,145,France,2025-07-24,U0217,4,3.26,Premium
+M036,Concrete Rivers,Documentary,1999,97,South Africa,2025-07-27,U0082,3,3.5,Premium
+M060,Holiday Mix-Up,Family,2023,106,France,2025-07-30,U0035,4,4.0,Standard
+M027,Second Spring,Romance,2006,96,United States,2025-08-02,U0061,4,3.96,Basic
+M028,The Café at Pier 9,Romance,2005,109,Brazil,2025-08-04,U0089,3,3.75,Premium
+M002,Last Convoy,Action,2022,111,United Kingdom,2025-08-09,U0215,4,3.44,Basic
+M059,Biscuit the Brave,Family,2017,98,India,2025-08-10,U0067,4,3.44,Standard
+M006,Wedding Crashers Anonymous,Comedy,2014,102,France,2025-08-10,U0124,3,3.25,Basic
+M002,Last Convoy,Action,2022,111,France,2025-08-10,U0143,4,3.44,Basic
+M047,The Quiet Accountant,Crime,2024,132,India,2025-08-12,U0034,2,3.14,Basic
+M021,The Hollow Hour,Horror,2010,98,Mexico,2025-08-13,U0154,2,3.36,Basic
+M042,Mango Mountain,Animation,2000,99,United States,2025-08-13,U0160,3,3.2,Standard
+M005,Night Courier,Action,2018,112,Japan,2025-08-14,U0182,4,3.11,Basic
+M052,Whisperwood,Fantasy,2001,136,Australia,2025-08-16,U0203,5,4.58,Basic
+M002,Last Convoy,Action,2022,111,Mexico,2025-08-20,U0206,3,3.44,Basic
+M001,Iron Meridian,Action,2025,130,India,2025-08-24,U0057,2,3.71,Basic
+M002,Last Convoy,Action,2022,111,Brazil,2025-08-25,U0112,4,3.44,Premium
+M028,The Café at Pier 9,Romance,2005,109,Australia,2025-08-26,U0045,4,3.75,Standard
+M003,Redline Protocol,Action,2024,100,United States,2025-08-28,U0191,3,3.29,Standard
+M024,Sleepwalkers Row,Horror,1998,99,Spain,2025-08-31,U0082,3,3.63,Premium
+M005,Night Courier,Action,2018,112,United States,2025-09-01,U0109,4,3.11,Basic
+M028,The Café at Pier 9,Romance,2005,109,Brazil,2025-09-01,U0127,3,3.75,Basic
+M052,Whisperwood,Fantasy,2001,136,Brazil,2025-09-03,U0054,5,4.58,Basic
+M044,Bubblewick,Animation,2006,104,India,2025-09-04,U0148,2,2.8,Standard
+M050,Nine Locks,Crime,2002,118,United States,2025-09-04,U0160,5,4.29,Standard
+M051,The Ember Crown,Fantasy,2020,145,United States,2025-09-07,U0075,3,3.26,Standard
+M059,Biscuit the Brave,Family,2017,98,Germany,2025-09-09,U0016,4,3.44,Premium
+M058,Summer at Willow Lake,Family,2009,103,United States,2025-09-09,U0071,5,3.6,Standard
+M049,Cutters,Crime,2018,133,France,2025-09-10,U0124,4,2.75,Basic
+M034,Static Sky,Sci-Fi,2010,151,Mexico,2025-09-10,U0186,3,3.17,Premium
+M052,Whisperwood,Fantasy,2001,136,India,2025-09-10,U0205,5,4.58,Standard
+M046,Harbor Street Ledger,Crime,2003,135,Brazil,2025-09-12,U0052,4,3.42,Basic
+M006,Wedding Crashers Anonymous,Comedy,2014,102,Brazil,2025-09-14,U0164,3,3.25,Premium
+M046,Harbor Street Ledger,Crime,2003,135,South Africa,2025-09-15,U0014,4,3.42,Basic
+M008,Lease Breakers,Comedy,2022,90,Spain,2025-09-15,U0153,3,3.0,Standard
+M054,The Lantern Witch,Fantasy,2011,115,United States,2025-09-16,U0004,3,3.23,Premium
+M027,Second Spring,Romance,2006,96,India,2025-09-21,U0062,5,3.96,Basic
+M013,Salt and Ash,Drama,2012,98,France,2025-09-22,U0124,3,3.29,Basic
+M024,Sleepwalkers Row,Horror,1998,99,United States,2025-09-26,U0012,3,3.63,Standard
+M040,Running Dry,Documentary,2022,91,Spain,2025-09-26,U0184,3,4.2,Standard
+M015,The Long Staircase,Drama,2025,142,Japan,2025-09-27,U0020,3,3.65,Basic
+M060,Holiday Mix-Up,Family,2023,106,United States,2025-09-27,U0185,3,4.0,Standard
+M020,Cold Harbor Nights,Thriller,2014,130,United States,2025-09-28,U0043,5,3.83,Basic
+M028,The Café at Pier 9,Romance,2005,109,Spain,2025-09-29,U0103,3,3.75,Basic
+M006,Wedding Crashers Anonymous,Comedy,2014,102,Australia,2025-09-30,U0065,3,3.25,Standard
+M037,The Last Beekeepers,Documentary,2024,95,United States,2025-10-04,U0191,5,4.0,Standard
+M020,Cold Harbor Nights,Thriller,2014,130,France,2025-10-05,U0060,3,3.83,Standard
+M048,Blood Ledger,Crime,2022,115,India,2025-10-05,U0209,3,3.44,Standard
+M007,The Plus-One Problem,Comedy,2018,104,United States,2025-10-07,U0012,3,3.4,Standard
+M057,The Backyard Expedition,Family,2001,112,United States,2025-10-08,U0187,3,3.5,Premium
+M037,The Last Beekeepers,Documentary,2024,95,United States,2025-10-08,U0190,4,4.0,Standard
+M049,Cutters,Crime,2018,133,France,2025-10-09,U0037,2,2.75,Standard
+M015,The Long Staircase,Drama,2025,142,Canada,2025-10-10,U0130,5,3.65,Standard
+M048,Blood Ledger,Crime,2022,115,Spain,2025-10-11,U0082,5,3.44,Premium
+M058,Summer at Willow Lake,Family,2009,103,South Africa,2025-10-11,U0083,2,3.6,Basic
+M013,Salt and Ash,Drama,2012,98,Mexico,2025-10-14,U0118,3,3.29,Basic
+M047,The Quiet Accountant,Crime,2024,132,Germany,2025-10-17,U0040,3,3.14,Premium
+M060,Holiday Mix-Up,Family,2023,106,France,2025-10-17,U0066,5,4.0,Standard
+M024,Sleepwalkers Row,Horror,1998,99,United States,2025-10-18,U0056,4,3.63,Basic
+M022,Echo House,Horror,2014,92,United States,2025-10-19,U0003,4,3.17,Premium
+M005,Night Courier,Action,2018,112,United States,2025-10-23,U0071,4,3.11,Standard
+M054,The Lantern Witch,Fantasy,2011,115,United States,2025-10-23,U0190,3,3.23,Standard
+M024,Sleepwalkers Row,Horror,1998,99,France,2025-10-28,U0033,3,3.63,Premium
+M060,Holiday Mix-Up,Family,2023,106,Mexico,2025-10-28,U0149,4,4.0,Standard
+M054,The Lantern Witch,Fantasy,2011,115,Germany,2025-10-29,U0142,5,3.23,Basic
+M015,The Long Staircase,Drama,2025,142,United Kingdom,2025-10-31,U0215,5,3.65,Basic
+M001,Iron Meridian,Action,2025,130,United States,2025-11-04,U0102,4,3.71,Premium
+M018,Dead Signal,Thriller,2001,97,Canada,2025-11-05,U0201,3,3.0,Premium
+M044,Bubblewick,Animation,2006,104,United States,2025-11-06,U0077,4,2.8,Basic
+M008,Lease Breakers,Comedy,2022,90,Brazil,2025-11-07,U0093,3,3.0,Standard
+M042,Mango Mountain,Animation,2000,99,Germany,2025-11-08,U0016,4,3.2,Premium
+M008,Lease Breakers,Comedy,2022,90,France,2025-11-09,U0060,2,3.0,Standard
+M042,Mango Mountain,Animation,2000,99,Canada,2025-11-10,U0055,2,3.2,Premium
+M047,The Quiet Accountant,Crime,2024,132,India,2025-11-13,U0008,4,3.14,Premium
+M002,Last Convoy,Action,2022,111,Brazil,2025-11-13,U0059,3,3.44,Basic
+M027,Second Spring,Romance,2006,96,United States,2025-11-16,U0158,3,3.96,Basic
+M059,Biscuit the Brave,Family,2017,98,India,2025-11-16,U0216,4,3.44,Basic
+M008,Lease Breakers,Comedy,2022,90,Germany,2025-11-18,U0179,4,3.0,Basic
+M002,Last Convoy,Action,2022,111,Canada,2025-11-19,U0111,2,3.44,Premium
+M050,Nine Locks,Crime,2002,118,Japan,2025-11-23,U0182,5,4.29,Basic
+M027,Second Spring,Romance,2006,96,Spain,2025-11-25,U0038,2,3.96,Premium
+M005,Night Courier,Action,2018,112,Mexico,2025-11-27,U0149,2,3.11,Standard
+M032,The Memory Engine,Sci-Fi,2011,117,United Kingdom,2025-11-29,U0031,4,4.0,Standard
+M036,Concrete Rivers,Documentary,1999,97,India,2025-11-29,U0144,3,3.5,Standard
+M001,Iron Meridian,Action,2025,130,Spain,2025-11-29,U0172,4,3.71,Standard
+M002,Last Convoy,Action,2022,111,South Africa,2025-11-29,U0204,2,3.44,Standard
+M019,Paper Witness,Thriller,2004,100,Mexico,2025-12-03,U0173,3,3.92,Premium
+M043,The Clockwork Fox,Animation,2024,90,United States,2025-12-03,U0212,3,4.14,Premium
+M037,The Last Beekeepers,Documentary,2024,95,India,2025-12-04,U0167,3,4.0,Basic
+M015,The Long Staircase,Drama,2025,142,Mexico,2025-12-04,U0171,4,3.65,Premium
+M056,Grandpa's Great Escape,Family,2003,102,United States,2025-12-08,U0196,5,4.0,Basic
+M054,The Lantern Witch,Fantasy,2011,115,United States,2025-12-09,U0028,4,3.23,Standard
+M039,Ghost Fleets,Documentary,2014,102,Germany,2025-12-10,U0101,3,3.0,Standard
+M003,Redline Protocol,Action,2024,100,Germany,2025-12-10,U0152,3,3.29,Standard
+M060,Holiday Mix-Up,Family,2023,106,United States,2025-12-12,U0150,4,4.0,Standard
+M045,Star Soup,Animation,2001,88,United Kingdom,2025-12-14,U0037,2,2.83,Standard
+M015,The Long Staircase,Drama,2025,142,Brazil,2025-12-14,U0070,4,3.65,Basic
+M015,The Long Staircase,Drama,2025,142,India,2025-12-15,U0026,2,3.65,Basic
+M003,Redline Protocol,Action,2024,100,India,2025-12-16,U0122,4,3.29,Premium
+M028,The Café at Pier 9,Romance,2005,109,India,2025-12-19,U0145,3,3.75,Premium
+M026,Letters to Lisbon,Romance,2011,121,France,2025-12-20,U0069,3,3.57,Premium
+M015,The Long Staircase,Drama,2025,142,Canada,2025-12-20,U0111,5,3.65,Premium
+M010,Two Left Passports,Comedy,2021,113,Mexico,2025-12-20,U0154,3,3.25,Basic
+M015,The Long Staircase,Drama,2025,142,Spain,2025-12-20,U0168,4,3.65,Premium
+M042,Mango Mountain,Animation,2000,99,United States,2025-12-21,U0015,4,3.2,Standard
+M057,The Backyard Expedition,Family,2001,112,India,2025-12-22,U0145,3,3.5,Premium
+M060,Holiday Mix-Up,Family,2023,106,United Kingdom,2025-12-29,U0031,4,4.0,Standard
+M017,The Seventh Floor,Thriller,2015,126,Spain,2025-12-29,U0133,4,3.5,Basic
+M002,Last Convoy,Action,2022,111,Mexico,2025-12-29,U0218,3,3.44,Premium
+M009,Unfiltered Uncle,Comedy,2010,87,Mexico,2025-12-30,U0013,4,3.71,Basic
+M009,Unfiltered Uncle,Comedy,2010,87,Japan,2025-12-30,U0020,2,3.71,Basic
+M005,Night Courier,Action,2018,112,Germany,2026-01-02,U0142,4,3.11,Basic
+M031,Orbit Zero,Sci-Fi,2026,146,Spain,2026-01-02,U0184,4,3.67,Standard
+M024,Sleepwalkers Row,Horror,1998,99,United States,2026-01-04,U0013,4,3.63,Basic
+M003,Redline Protocol,Action,2024,100,France,2026-01-04,U0143,3,3.29,Basic
+M047,The Quiet Accountant,Crime,2024,132,South Africa,2026-01-09,U0074,3,3.14,Premium
+M012,A Winter Ledger,Drama,2026,134,France,2026-01-09,U0138,5,4.29,Standard
+M026,Letters to Lisbon,Romance,2011,121,Japan,2026-01-10,U0020,3,3.57,Basic
+M054,The Lantern Witch,Fantasy,2011,115,United States,2026-01-15,U0192,2,3.23,Premium
+M019,Paper Witness,Thriller,2004,100,United States,2026-01-16,U0023,3,3.92,Standard
+M009,Unfiltered Uncle,Comedy,2010,87,Brazil,2026-01-21,U0052,4,3.71,Basic
+M045,Star Soup,Animation,2001,88,United States,2026-01-21,U0056,3,2.83,Basic
+M009,Unfiltered Uncle,Comedy,2010,87,South Africa,2026-01-22,U0098,5,3.71,Premium
+M031,Orbit Zero,Sci-Fi,2026,146,Mexico,2026-01-22,U0173,3,3.67,Premium
+M051,The Ember Crown,Fantasy,2020,145,South Africa,2026-01-28,U0204,3,3.26,Standard
+M048,Blood Ledger,Crime,2022,115,Brazil,2026-01-29,U0092,3,3.44,Standard
+M015,The Long Staircase,Drama,2025,142,Mexico,2026-01-31,U0199,2,3.65,Basic
+M020,Cold Harbor Nights,Thriller,2014,130,Australia,2026-02-01,U0059,4,3.83,Basic
+M027,Second Spring,Romance,2006,96,Japan,2026-02-01,U0121,4,3.96,Premium
+M014,Borrowed Names,Drama,2013,112,Germany,2026-02-03,U0202,5,3.4,Premium
+M008,Lease Breakers,Comedy,2022,90,United States,2026-02-04,U0109,4,3.0,Basic
+M046,Harbor Street Ledger,Crime,2003,135,United States,2026-02-06,U0061,3,3.42,Basic
+M038,Inside the Vault,Documentary,2026,82,United Kingdom,2026-02-08,U0005,3,3.33,Premium
+M052,Whisperwood,Fantasy,2001,136,India,2026-02-08,U0034,5,4.58,Basic
+M029,Almost November,Romance,2026,111,Brazil,2026-02-08,U0054,5,3.43,Basic
+M027,Second Spring,Romance,2006,96,United States,2026-02-08,U0075,4,3.96,Standard
+M006,Wedding Crashers Anonymous,Comedy,2014,102,South Africa,2026-02-08,U0201,2,3.25,Premium
+M026,Letters to Lisbon,Romance,2011,121,Mexico,2026-02-09,U0186,5,3.57,Premium
+M006,Wedding Crashers Anonymous,Comedy,2014,102,Japan,2026-02-11,U0166,4,3.25,Premium
+M003,Redline Protocol,Action,2024,100,United States,2026-02-12,U0061,3,3.29,Basic
+M031,Orbit Zero,Sci-Fi,2026,146,India,2026-02-13,U0169,5,3.67,Premium
+M031,Orbit Zero,Sci-Fi,2026,146,Japan,2026-02-14,U0050,4,3.67,Standard
+M011,The Quiet Orchard,Drama,2005,124,United States,2026-02-14,U0096,3,2.25,Basic
+M019,Paper Witness,Thriller,2004,100,Germany,2026-02-14,U0159,3,3.92,Standard
+M030,Tides of You,Romance,2026,104,India,2026-02-14,U0170,4,4.33,Standard
+M044,Bubblewick,Animation,2006,104,Japan,2026-02-14,U0182,2,2.8,Basic
+M012,A Winter Ledger,Drama,2026,134,United States,2026-02-15,U0046,3,4.29,Standard
+M002,Last Convoy,Action,2022,111,United States,2026-02-15,U0196,3,3.44,Basic
+M021,The Hollow Hour,Horror,2010,98,United States,2026-02-17,U0178,2,3.36,Premium
+M002,Last Convoy,Action,2022,111,Japan,2026-02-20,U0144,4,3.44,Standard
+M016,Glass Alibi,Thriller,2011,98,France,2026-02-21,U0064,5,4.5,Premium
+M052,Whisperwood,Fantasy,2001,136,United States,2026-02-22,U0192,4,4.58,Premium
+M046,Harbor Street Ledger,Crime,2003,135,Japan,2026-02-22,U0193,3,3.42,Premium
+M029,Almost November,Romance,2026,111,Spain,2026-02-27,U0168,3,3.43,Premium
+M031,Orbit Zero,Sci-Fi,2026,146,United States,2026-02-28,U0077,5,3.67,Basic
+M031,Orbit Zero,Sci-Fi,2026,146,Japan,2026-02-28,U0135,5,3.67,Standard
+M036,Concrete Rivers,Documentary,1999,97,Japan,2026-03-03,U0001,3,3.5,Basic
+M036,Concrete Rivers,Documentary,1999,97,France,2026-03-03,U0064,5,3.5,Premium
+M013,Salt and Ash,Drama,2012,98,United States,2026-03-08,U0109,3,3.29,Basic
+M023,Marrow,Horror,2021,82,United States,2026-03-08,U0192,4,3.86,Premium
+M021,The Hollow Hour,Horror,2010,98,United Kingdom,2026-03-09,U0037,5,3.36,Standard
+M055,Realm of Glass,Fantasy,2015,109,India,2026-03-09,U0067,3,3.6,Standard
+M002,Last Convoy,Action,2022,111,India,2026-03-09,U0169,4,3.44,Premium
+M052,Whisperwood,Fantasy,2001,136,Canada,2026-03-09,U0201,5,4.58,Premium
+M009,Unfiltered Uncle,Comedy,2010,87,Australia,2026-03-11,U0142,3,3.71,Basic
+M024,Sleepwalkers Row,Horror,1998,99,France,2026-03-12,U0177,4,3.63,Standard
+M052,Whisperwood,Fantasy,2001,136,Japan,2026-03-14,U0025,5,4.58,Standard
+M025,Below the Lantern,Horror,2000,99,United States,2026-03-14,U0095,2,2.89,Premium
+M002,Last Convoy,Action,2022,111,India,2026-03-15,U0122,2,3.44,Premium
+M051,The Ember Crown,Fantasy,2020,145,Japan,2026-03-18,U0020,2,3.26,Basic
+M031,Orbit Zero,Sci-Fi,2026,146,South Africa,2026-03-23,U0030,4,3.67,Standard
+M050,Nine Locks,Crime,2002,118,Spain,2026-03-23,U0153,5,4.29,Standard
+M006,Wedding Crashers Anonymous,Comedy,2014,102,India,2026-03-24,U0008,2,3.25,Premium
+M019,Paper Witness,Thriller,2004,100,United Kingdom,2026-03-24,U0156,4,3.92,Basic
+M030,Tides of You,Romance,2026,104,Japan,2026-03-25,U0020,5,4.33,Basic
+M056,Grandpa's Great Escape,Family,2003,102,Australia,2026-03-26,U0068,3,4.0,Basic
+M022,Echo House,Horror,2014,92,United States,2026-03-27,U0212,2,3.17,Premium
+M045,Star Soup,Animation,2001,88,France,2026-03-28,U0217,3,2.83,Premium
+M038,Inside the Vault,Documentary,2026,82,India,2026-03-29,U0122,3,3.33,Premium
+M059,Biscuit the Brave,Family,2017,98,United Kingdom,2026-03-29,U0200,4,3.44,Basic
+M019,Paper Witness,Thriller,2004,100,Canada,2026-03-31,U0197,5,3.92,Standard
+M060,Holiday Mix-Up,Family,2023,106,Brazil,2026-04-02,U0157,4,4.0,Standard
+M012,A Winter Ledger,Drama,2026,134,Japan,2026-04-02,U0177,4,4.29,Standard
+M035,Afterlight Colony,Sci-Fi,2000,127,Mexico,2026-04-04,U0097,5,4.0,Premium
+M015,The Long Staircase,Drama,2025,142,Germany,2026-04-04,U0183,4,3.65,Premium
+M006,Wedding Crashers Anonymous,Comedy,2014,102,Australia,2026-04-04,U0212,3,3.25,Premium
+M049,Cutters,Crime,2018,133,Japan,2026-04-09,U0020,3,2.75,Basic
+M025,Below the Lantern,Horror,2000,99,France,2026-04-09,U0108,3,2.89,Basic
+M007,The Plus-One Problem,Comedy,2018,104,India,2026-04-10,U0057,4,3.4,Basic
+M051,The Ember Crown,Fantasy,2020,145,France,2026-04-12,U0060,3,3.26,Standard
+M060,Holiday Mix-Up,Family,2023,106,United States,2026-04-13,U0187,3,4.0,Premium
+M005,Night Courier,Action,2018,112,United States,2026-04-14,U0079,3,3.11,Standard
+M012,A Winter Ledger,Drama,2026,134,Brazil,2026-04-14,U0125,4,4.29,Basic
+M046,Harbor Street Ledger,Crime,2003,135,United States,2026-04-16,U0062,3,3.42,Basic
+M053,Throne of Tides,Fantasy,2015,124,Japan,2026-04-20,U0135,3,3.33,Standard
+M005,Night Courier,Action,2018,112,Spain,2026-04-22,U0162,3,3.11,Basic
+M036,Concrete Rivers,Documentary,1999,97,United States,2026-04-23,U0096,3,3.5,Basic
+M027,Second Spring,Romance,2006,96,Brazil,2026-04-25,U0099,3,3.96,Standard
+M051,The Ember Crown,Fantasy,2020,145,India,2026-04-29,U0008,3,3.26,Premium
+M018,Dead Signal,Thriller,2001,97,India,2026-04-29,U0048,4,3.0,Premium
+M019,Paper Witness,Thriller,2004,100,India,2026-04-29,U0062,4,3.92,Basic
+M006,Wedding Crashers Anonymous,Comedy,2014,102,United Kingdom,2026-04-29,U0179,3,3.25,Basic
+M039,Ghost Fleets,Documentary,2014,102,United States,2026-04-29,U0191,4,3.0,Standard
+M060,Holiday Mix-Up,Family,2023,106,Mexico,2026-04-30,U0206,3,4.0,Basic
+M051,The Ember Crown,Fantasy,2020,145,United States,2026-05-01,U0126,3,3.26,Standard
+M007,The Plus-One Problem,Comedy,2018,104,Mexico,2026-05-01,U0171,3,3.4,Premium
+M054,The Lantern Witch,Fantasy,2011,115,Spain,2026-05-02,U0168,3,3.23,Premium
+M060,Holiday Mix-Up,Family,2023,106,India,2026-05-02,U0181,3,4.0,Standard
+M051,The Ember Crown,Fantasy,2020,145,Japan,2026-05-07,U0121,3,3.26,Premium
+M010,Two Left Passports,Comedy,2021,113,Mexico,2026-05-08,U0022,3,3.25,Standard
+M026,Letters to Lisbon,Romance,2011,121,France,2026-05-10,U0139,3,3.57,Basic
+M048,Blood Ledger,Crime,2022,115,France,2026-05-11,U0143,2,3.44,Basic
+M029,Almost November,Romance,2026,111,India,2026-05-12,U0062,4,3.43,Basic
+M027,Second Spring,Romance,2006,96,India,2026-05-12,U0209,4,3.96,Standard
+M020,Cold Harbor Nights,Thriller,2014,130,South Africa,2026-05-15,U0074,3,3.83,Premium
+M051,The Ember Crown,Fantasy,2020,145,Japan,2026-05-19,U0001,4,3.26,Basic
+M015,The Long Staircase,Drama,2025,142,India,2026-05-19,U0008,5,3.65,Premium
+M026,Letters to Lisbon,Romance,2011,121,United Kingdom,2026-05-21,U0029,5,3.57,Standard
+M014,Borrowed Names,Drama,2013,112,United States,2026-05-21,U0056,3,3.4,Basic
+M005,Night Courier,Action,2018,112,Mexico,2026-05-21,U0136,4,3.11,Basic
+M002,Last Convoy,Action,2022,111,Canada,2026-05-21,U0155,5,3.44,Standard
+M006,Wedding Crashers Anonymous,Comedy,2014,102,Japan,2026-05-22,U0144,4,3.25,Standard
+M052,Whisperwood,Fantasy,2001,136,United States,2026-05-23,U0095,4,4.58,Premium
+M019,Paper Witness,Thriller,2004,100,United States,2026-05-23,U0158,3,3.92,Basic
+M012,A Winter Ledger,Drama,2026,134,Brazil,2026-05-25,U0180,5,4.29,Basic
+M046,Harbor Street Ledger,Crime,2003,135,South Africa,2026-05-26,U0113,4,3.42,Standard
+M046,Harbor Street Ledger,Crime,2003,135,United States,2026-05-29,U0080,4,3.42,Standard
+M008,Lease Breakers,Comedy,2022,90,United Kingdom,2026-05-30,U0029,2,3.0,Standard
+M015,The Long Staircase,Drama,2025,142,United States,2026-06-03,U0190,3,3.65,Standard
+M027,Second Spring,Romance,2006,96,South Africa,2026-06-03,U0204,5,3.96,Standard
+M043,The Clockwork Fox,Animation,2024,90,Brazil,2026-06-06,U0087,4,4.14,Premium
+M051,The Ember Crown,Fantasy,2020,145,Spain,2026-06-06,U0172,4,3.26,Standard
+M049,Cutters,Crime,2018,133,India,2026-06-07,U0145,1,2.75,Premium
+M050,Nine Locks,Crime,2002,118,United States,2026-06-08,U0075,4,4.29,Standard
+M040,Running Dry,Documentary,2022,91,Brazil,2026-06-08,U0091,5,4.2,Standard
+M020,Cold Harbor Nights,Thriller,2014,130,India,2026-06-09,U0116,4,3.83,Basic
+M014,Borrowed Names,Drama,2013,112,Australia,2026-06-10,U0050,3,3.4,Standard
+M006,Wedding Crashers Anonymous,Comedy,2014,102,South Africa,2026-06-10,U0097,5,3.25,Premium
+M005,Night Courier,Action,2018,112,Mexico,2026-06-12,U0024,1,3.11,Basic
+M002,Last Convoy,Action,2022,111,Japan,2026-06-14,U0193,3,3.44,Premium
+M021,The Hollow Hour,Horror,2010,98,India,2026-06-16,U0048,2,3.36,Premium
+M002,Last Convoy,Action,2022,111,India,2026-06-17,U0062,3,3.44,Basic
+M015,The Long Staircase,Drama,2025,142,Mexico,2026-06-17,U0149,4,3.65,Standard
+M031,Orbit Zero,Sci-Fi,2026,146,France,2026-06-18,U0035,3,3.67,Standard
+M021,The Hollow Hour,Horror,2010,98,Japan,2026-06-18,U0070,4,3.36,Basic
+M024,Sleepwalkers Row,Horror,1998,99,France,2026-06-18,U0143,3,3.63,Basic
+M002,Last Convoy,Action,2022,111,United States,2026-06-18,U0212,2,3.44,Premium
+M031,Orbit Zero,Sci-Fi,2026,146,Japan,2026-06-19,U0177,2,3.67,Standard
+M015,The Long Staircase,Drama,2025,142,South Africa,2026-06-21,U0058,5,3.65,Basic
+M005,Night Courier,Action,2018,112,United States,2026-06-22,U0160,2,3.11,Standard
+M027,Second Spring,Romance,2006,96,Germany,2026-06-23,U0142,4,3.96,Basic
+M031,Orbit Zero,Sci-Fi,2026,146,United States,2026-06-26,U0080,3,3.67,Standard
+M027,Second Spring,Romance,2006,96,Germany,2026-06-26,U0154,4,3.96,Basic
+M017,The Seventh Floor,Thriller,2015,126,Japan,2026-06-27,U0094,4,3.5,Basic
+M042,Mango Mountain,Animation,2000,99,Australia,2026-06-30,U0203,3,3.2,Basic
+M021,The Hollow Hour,Horror,2010,98,India,2026-07-01,U0049,4,3.36,Basic
+M006,Wedding Crashers Anonymous,Comedy,2014,102,United States,2026-07-02,U0056,4,3.25,Basic
+M018,Dead Signal,Thriller,2001,97,United States,2026-07-02,U0075,1,3.0,Standard
+M015,The Long Staircase,Drama,2025,142,Spain,2026-07-02,U0103,4,3.65,Basic
+M060,Holiday Mix-Up,Family,2023,106,India,2026-07-09,U0057,4,4.0,Basic
+M036,Concrete Rivers,Documentary,1999,97,India,2026-07-10,U0034,5,3.5,Basic
+M039,Ghost Fleets,Documentary,2014,102,United States,2026-07-10,U0150,3,3.0,Standard
+M017,The Seventh Floor,Thriller,2015,126,Mexico,2026-07-10,U0194,3,3.5,Standard
+M029,Almost November,Romance,2026,111,France,2026-07-11,U0139,3,3.43,Basic
+M023,Marrow,Horror,2021,82,Brazil,2026-07-13,U0125,5,3.86,Basic
+M031,Orbit Zero,Sci-Fi,2026,146,United States,2026-07-14,U0040,3,3.67,Premium
+M027,Second Spring,Romance,2006,96,France,2026-07-14,U0064,3,3.96,Premium
+M035,Afterlight Colony,Sci-Fi,2000,127,Brazil,2026-07-15,U0127,3,4.0,Basic
+M031,Orbit Zero,Sci-Fi,2026,146,Australia,2026-07-16,U0068,5,3.67,Basic
+M041,Pip and the Paper Moon,Animation,2023,97,India,2026-07-21,U0205,3,2.8,Standard
+M040,Running Dry,Documentary,2022,91,Mexico,2026-07-23,U0188,3,4.2,Basic
+M031,Orbit Zero,Sci-Fi,2026,146,India,2026-07-25,U0026,5,3.67,Basic
+M030,Tides of You,Romance,2026,104,Japan,2026-07-27,U0115,4,4.33,Standard
+M036,Concrete Rivers,Documentary,1999,97,South Africa,2026-07-29,U0152,3,3.5,Standard
+M029,Almost November,Romance,2026,111,South Africa,2026-07-30,U0097,2,3.43,Premium
+M002,Last Convoy,Action,2022,111,India,2026-08-02,U0039,4,3.44,Standard
+M031,Orbit Zero,Sci-Fi,2026,146,United States,2026-08-02,U0102,2,3.67,Premium
+M002,Last Convoy,Action,2022,111,South Africa,2026-08-03,U0123,3,3.44,Standard
+M006,Wedding Crashers Anonymous,Comedy,2014,102,India,2026-08-03,U0220,4,3.25,Premium
+M060,Holiday Mix-Up,Family,2023,106,France,2026-08-04,U0085,4,4.0,Premium
+M038,Inside the Vault,Documentary,2026,82,Mexico,2026-08-05,U0024,5,3.33,Basic
+M048,Blood Ledger,Crime,2022,115,Australia,2026-08-06,U0045,5,3.44,Standard
+M014,Borrowed Names,Drama,2013,112,United States,2026-08-08,U0134,4,3.4,Standard
+M031,Orbit Zero,Sci-Fi,2026,146,Brazil,2026-08-09,U0091,5,3.67,Standard
+M055,Realm of Glass,Fantasy,2015,109,Spain,2026-08-09,U0133,4,3.6,Basic
+M031,Orbit Zero,Sci-Fi,2026,146,United States,2026-08-10,U0015,3,3.67,Standard
+M021,The Hollow Hour,Horror,2010,98,Brazil,2026-08-10,U0036,4,3.36,Premium
+M006,Wedding Crashers Anonymous,Comedy,2014,102,Mexico,2026-08-10,U0206,3,3.25,Basic
+M002,Last Convoy,Action,2022,111,Japan,2026-08-14,U0025,5,3.44,Standard
+M046,Harbor Street Ledger,Crime,2003,135,Japan,2026-08-14,U0161,2,3.42,Basic
+M027,Second Spring,Romance,2006,96,United States,2026-08-15,U0079,5,3.96,Standard
+M012,A Winter Ledger,Drama,2026,134,Brazil,2026-08-18,U0002,5,4.29,Basic
+M029,Almost November,Romance,2026,111,Mexico,2026-08-18,U0024,3,3.43,Basic
+M052,Whisperwood,Fantasy,2001,136,Brazil,2026-08-20,U0099,4,4.58,Standard
+M028,The Café at Pier 9,Romance,2005,109,United States,2026-08-20,U0160,5,3.75,Standard
+M002,Last Convoy,Action,2022,111,Mexico,2026-08-23,U0207,5,3.44,Standard
+M022,Echo House,Horror,2014,92,Canada,2026-08-28,U0027,3,3.17,Premium
+M038,Inside the Vault,Documentary,2026,82,Brazil,2026-08-28,U0052,3,3.33,Basic
+M036,Concrete Rivers,Documentary,1999,97,Brazil,2026-08-28,U0087,3,3.5,Premium
+M005,Night Courier,Action,2018,112,Japan,2026-08-28,U0166,2,3.11,Premium
+M016,Glass Alibi,Thriller,2011,98,South Africa,2026-08-28,U0174,4,4.5,Standard
+M019,Paper Witness,Thriller,2004,100,United States,2026-08-28,U0187,4,3.92,Premium
+M038,Inside the Vault,Documentary,2026,82,France,2026-08-28,U0217,3,3.33,Premium
+M060,Holiday Mix-Up,Family,2023,106,Brazil,2026-08-30,U0208,5,4.0,Premium
+M002,Last Convoy,Action,2022,111,United States,2026-08-31,U0056,3,3.44,Basic
+M060,Holiday Mix-Up,Family,2023,106,Germany,2026-09-02,U0119,4,4.0,Standard
+M007,The Plus-One Problem,Comedy,2018,104,India,2026-09-02,U0122,3,3.4,Premium
+M025,Below the Lantern,Horror,2000,99,India,2026-09-02,U0134,3,2.89,Standard
+M046,Harbor Street Ledger,Crime,2003,135,South Africa,2026-09-03,U0058,3,3.42,Basic
+M058,Summer at Willow Lake,Family,2009,103,Germany,2026-09-03,U0151,4,3.6,Standard
+M038,Inside the Vault,Documentary,2026,82,Spain,2026-09-03,U0154,3,3.33,Basic
+M048,Blood Ledger,Crime,2022,115,United Kingdom,2026-09-05,U0120,3,3.44,Standard
+M023,Marrow,Horror,2021,82,United States,2026-09-09,U0015,3,3.86,Standard
+M031,Orbit Zero,Sci-Fi,2026,146,France,2026-09-10,U0085,3,3.67,Premium
+M021,The Hollow Hour,Horror,2010,98,United States,2026-09-10,U0176,3,3.36,Standard
+M021,The Hollow Hour,Horror,2010,98,Australia,2026-09-10,U0185,4,3.36,Standard
+M025,Below the Lantern,Horror,2000,99,Germany,2026-09-11,U0040,3,2.89,Premium
+M029,Almost November,Romance,2026,111,Brazil,2026-09-11,U0164,4,3.43,Premium
+M053,Throne of Tides,Fantasy,2015,124,United States,2026-09-16,U0012,4,3.33,Standard
+M060,Holiday Mix-Up,Family,2023,106,India,2026-09-17,U0118,4,4.0,Basic
+M015,The Long Staircase,Drama,2025,142,Australia,2026-09-21,U0209,2,3.65,Standard
+M049,Cutters,Crime,2018,133,Mexico,2026-09-23,U0154,2,2.75,Basic
+M051,The Ember Crown,Fantasy,2020,145,Brazil,2026-09-23,U0208,4,3.26,Premium
+M007,The Plus-One Problem,Comedy,2018,104,Japan,2026-09-26,U0114,4,3.4,Standard
+M034,Static Sky,Sci-Fi,2010,151,Australia,2026-09-28,U0068,4,3.17,Basic
+M059,Biscuit the Brave,Family,2017,98,Brazil,2026-10-01,U0054,3,3.44,Basic
+M027,Second Spring,Romance,2006,96,Germany,2026-10-03,U0081,3,3.96,Standard
+M036,Concrete Rivers,Documentary,1999,97,Spain,2026-10-07,U0168,4,3.5,Premium
+M027,Second Spring,Romance,2006,96,France,2026-10-08,U0217,4,3.96,Premium
+M050,Nine Locks,Crime,2002,118,United States,2026-10-12,U0012,4,4.29,Standard
+M044,Bubblewick,Animation,2006,104,Brazil,2026-10-12,U0091,3,2.8,Standard
+M015,The Long Staircase,Drama,2025,142,United Kingdom,2026-10-16,U0031,2,3.65,Standard
+M031,Orbit Zero,Sci-Fi,2026,146,United States,2026-10-16,U0073,2,3.67,Premium
+M005,Night Courier,Action,2018,112,United States,2026-10-16,U0080,3,3.11,Standard
+M023,Marrow,Horror,2021,82,Canada,2026-10-16,U0153,4,3.86,Standard
+M002,Last Convoy,Action,2022,111,France,2026-10-16,U0210,4,3.44,Basic
+M002,Last Convoy,Action,2022,111,Australia,2026-10-17,U0106,2,3.44,Standard
+M002,Last Convoy,Action,2022,111,United States,2026-10-20,U0158,3,3.44,Basic
+M015,The Long Staircase,Drama,2025,142,United Kingdom,2026-10-21,U0126,3,3.65,Standard
+M043,The Clockwork Fox,Animation,2024,90,United States,2026-10-21,U0213,5,4.14,Standard
+M052,Whisperwood,Fantasy,2001,136,Japan,2026-10-22,U0135,4,4.58,Standard
+M041,Pip and the Paper Moon,Animation,2023,97,Spain,2026-10-25,U0117,4,2.8,Standard
+M034,Static Sky,Sci-Fi,2010,151,Spain,2026-10-26,U0162,2,3.17,Basic
+M011,The Quiet Orchard,Drama,2005,124,South Africa,2026-10-31,U0123,3,2.25,Standard
+M001,Iron Meridian,Action,2025,130,Mexico,2026-11-01,U0110,4,3.71,Standard
+M025,Below the Lantern,Horror,2000,99,Germany,2026-11-05,U0009,4,2.89,Basic
+M002,Last Convoy,Action,2022,111,South Africa,2026-11-05,U0074,4,3.44,Premium
+M039,Ghost Fleets,Documentary,2014,102,Brazil,2026-11-07,U0022,3,3.0,Standard
+M020,Cold Harbor Nights,Thriller,2014,130,Japan,2026-11-07,U0218,4,3.83,Premium
+M018,Dead Signal,Thriller,2001,97,Brazil,2026-11-08,U0002,4,3.0,Basic
+M055,Realm of Glass,Fantasy,2015,109,South Africa,2026-11-08,U0123,5,3.6,Standard
+M055,Realm of Glass,Fantasy,2015,109,United States,2026-11-08,U0213,2,3.6,Standard
+M025,Below the Lantern,Horror,2000,99,India,2026-11-11,U0039,3,2.89,Standard
+M028,The Café at Pier 9,Romance,2005,109,Mexico,2026-11-11,U0194,4,3.75,Standard
+M034,Static Sky,Sci-Fi,2010,151,United States,2026-11-13,U0190,4,3.17,Standard
+M017,The Seventh Floor,Thriller,2015,126,United States,2026-11-15,U0021,3,3.5,Standard
+M015,The Long Staircase,Drama,2025,142,United States,2026-11-15,U0042,2,3.65,Premium
+M024,Sleepwalkers Row,Horror,1998,99,Australia,2026-11-15,U0065,5,3.63,Standard
+M028,The Café at Pier 9,Romance,2005,109,Brazil,2026-11-15,U0157,4,3.75,Standard
+M012,A Winter Ledger,Drama,2026,134,United States,2026-11-16,U0187,4,4.29,Premium
+M051,The Ember Crown,Fantasy,2020,145,United States,2026-11-17,U0003,3,3.26,Premium
+M034,Static Sky,Sci-Fi,2010,151,United States,2026-11-17,U0021,2,3.17,Standard
+M047,The Quiet Accountant,Crime,2024,132,United Kingdom,2026-11-18,U0098,3,3.14,Premium
+M041,Pip and the Paper Moon,Animation,2023,97,India,2026-11-19,U0057,3,2.8,Basic
+M013,Salt and Ash,Drama,2012,98,United Kingdom,2026-11-19,U0200,3,3.29,Basic
+M027,Second Spring,Romance,2006,96,Japan,2026-11-20,U0166,5,3.96,Premium
