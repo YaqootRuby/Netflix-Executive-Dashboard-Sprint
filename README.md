@@ -29,10 +29,10 @@ The full sprint goal is in [Sprint Goal.docx](Sprint%20Goal.docx).
 │   ├── Netflix_Project.html
 │   ├── Netflix_Project.ipynb
 │   └── Screenshots_of_Suceessfull_Run.png
-├── Project Plan.docx
+├── Project Plan.pdf
 ├── README.md
 ├── RETROSPECTIVE.md
-└── Sprint Goal.docx
+└── Sprint Goal.pdf
 ```
 
 | File | Description |
